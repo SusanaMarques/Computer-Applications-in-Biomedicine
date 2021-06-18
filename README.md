@@ -11,3 +11,5 @@ Concepts learned with this work:
 - Data Warehouse
 - Data Analysis
 
+Written Article: 
+
