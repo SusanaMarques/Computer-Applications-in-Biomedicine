@@ -11,5 +11,5 @@ Concepts learned with this work:
 - Data Warehouse
 - Data Analysis
 
-Written Article: 
+[Written Article](https://github.com/SusanaMarques/Computer-Applications-in-Biomedicine/blob/main/Paper.pdf)
 
